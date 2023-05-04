@@ -1,0 +1,82 @@
+[
+    {   
+        "id":"1",
+        "name": "Enrique Olvera",
+        "photo": "https://i.ibb.co/dJDtvVC/Enrique-Olvera.jpg",
+        "experience": "20",
+        "like": "17,257",
+        "bioData": "Currently, Enrique Olvera is the most popular Mexican chef in the world.He was raised in Mexico City but ultimately decided to attend culinary school in New York, so he moved there. Olvera is the chef and proprietor of the renowned Pujol restaurant in a quiet suburb of Mexico City, known for its innovative and creative Mexican haute cuisine.Enrique Olvera, without a doubt, has been a forerunner in the modern Mexican cuisine movement. He is ranked first among Mexico’s top chefs because of his careful attention to each dish and the creative ways he adapts international cuisine to Mexico’s regional specialties and cultural norms.At the 2021 edition of “The World’s 50 Best Restaurants” list, Olvera’s restaurant is placed at number nine, and he was featured on the 12th season of MasterChef UK.",
+        "totalRecipe":"3",
+        "recipe":"Mole de Olla, Tlayudas, Chiles en Nogada"
+    },
+    {   
+        "id":"2",
+        "name": "Benito Molina",
+        "photo": "https://i.ibb.co/WyWQ4SV/Benito-Molina.jpg",
+        "experience": "17",
+        "like": "4,930",
+        "bioData": "Benito Molina is widely recognized as one of Mexico’s most famous chefs. He was born in Mexico City in 1968. While working as an assistant chef at the renowned Maxim’s de Paris restaurant, he developed a love for fine cuisine.Since then, he has risen through the ranks and collaborated with some of the world’s most revered food experts. Molina has been widely recognized as an early innovator of Mexican and Mediterranean fusion cuisine thanks to his training at the New England Culinary Institute in Vermont, USA.Later, he found work as the cuisine chef at the establishment of the renowned Mexican oenologist Hugo D’Acosta in Ensenada (Baja California), where he met the talented Chef Solange Munis, who would become his future wife. The couple opened their own restaurant over a decade ago.",
+        "totalRecipe":"3",
+        "recipe":"Tostadas de Pulpo con Aguachile, Chiles Rellenos de Queso de Bola, Pescado a la Talla"
+    },
+    {   
+        "id":"3",
+        "name": "Daniel Ovadía",
+        "photo": "https://i.ibb.co/cQvLf3B/Daniel-Ova.jpg",
+        "experience": "10",
+        "like": "298",
+        "bioData": "Daniel Ovadía, a native of Mexico City, is widely regarded as one of the most promising young chefs in Mexico. At this point in his career, Ovadía has become more than just a famous restaurateur; he is also a prominent figure in the world of culinary scholarship.Ovadía first gained earned a reputation at the young age of 21 when he opened Paxia, a popular restaurant in the area known for its updated takes on classic Mexican dishes, Mora Blanca (inspired by the dinners he had as the son of European settlers), the neighborhood lunch joint Peltre, a cooking group, and the food store Serendipia are now part of his small domain. With all these accomplishments, Ovadía has easily become one of the most popular Mexican chefs today.",
+        "totalRecipe":"3",
+        "recipe":"Ceviche Verde, Churros con Chocolate, Esquites"
+    },
+    {   
+        "id":"4",
+        "name": "Luis Aranda",
+        "photo": "https://i.ibb.co/6r0HkmB/Luis-Aranda.jpg",
+        "experience": "7",
+        "like": "34",
+        "bioData": "Luis Aranda has multiple diplomas in culinary fields like international cooking, Latin American cooking, pastry making, fusion cooking, and various other cooking techniques. He is also a master’s degree holder.After he finished school, Aranda took a trip that lasted more than two years, taking him from Cancun to Ensenada and finally ending in Toronto, Canada. Aranda made the most of his experiences at the restaurants he discovered and the food they served.He amassed unimaginable knowledge and expertise in the kitchen and used it to create dishes that were unmatched. That’s why Luis Aranda’s name appears among Mexico’s popular chefs today.",
+        "totalRecipe":"4",
+        "recipe":"Ceviche Verde, Tacos de Camarones al Pastor,Churros con Chocolate, Esquites"
+    },
+    {   
+        "id":"5",
+        "name": "Daniela Sotto-Innes ",
+        "photo": "https://i.ibb.co/BfjmQZc/Daniela-Sotto-Innes.jpg",
+        "experience": "12",
+        "like": "5,475",
+        "bioData": "Daniela Sotto-Innes began learning how to cook as a child and continued her education at the renowned Pujol cooking school in her teenage years.In 2014, her instructor Enrique Olvera opened a restaurant and hired Soto-Innes as head chef. At 26, she was already employed in one of New York City’s most prestigious restaurants.She is an expert when it comes to upscale Mexican cuisine. Although she does not disclose all her trade secrets, Soto-Innes takes great pride in paying homage to Mexican cuisine by preparing authentic dishes.",
+        "totalRecipe":"5",
+        "recipe":"Ceviche Verde, Tacos de Camarones al Pastor,Churros con Chocolate, Esquites, Enchiladas de Mole Negro "
+    },
+    {   
+        "id":"6",
+        "name": "Pablo Salas ",
+        "photo": "https://i.ibb.co/FshFCFN/Pablo-Salas.jpg",
+        "experience": "9",
+        "like": "1,875",
+        "bioData": "Pablo Salas is celebrated for his innovative Mexican cuisine, including his penchant for preparing pork and his mastery of the art of serving pig trotters in a respectful and appetizing manner. He is an advanced Mexican food specialist who received training at Ambrosia in Mexico.The restaurant known as Amaranta can be found in the State of Mexico. It serves traditional Mexican dishes such as fish, chorizo, and mushrooms. Salas currently holds a spot on Mexico’s top famous chefs’ list.",
+        "totalRecipe":"5",
+        "recipe":"Sopa Azteca, Cochinita Pibil Tacos ,Chiles Rellenos de Queso de Bola,Enchiladas Suizas,Tamales de Elote con Flor de Calabaza"
+    },
+    {   
+        "id":"7",
+        "name": "Alfredo Villanueva ",
+        "photo": "https://i.ibb.co/L1vRBxt/Alfredo-Villanueva.jpg",
+        "experience": "6",
+        "like": "511",
+        "bioData": "Alfredo Villanueva is a culinary expert who was born in Mexico City and educated himself in the field. Romero Y Azahar, his restaurant in Monterrey, was created in the same way that other Mexican culinary masters have done so that it can take advantage of local ingredients.As a result of this, he holds a prominent place on the list of the most popular chefs in Mexico. In the realm of Mexican cuisine, he is well-known as a chef with high standards, a maker of flavors that stick in the memory, and a pro at working with rice and fire.",
+        "totalRecipe":"2",
+        "recipe":"Sopa Azteca, Cochinita Pibil Tacos"
+    },
+    {   
+        "id":"8",
+        "name": "Martha Ortiz",
+        "photo": "https://i.ibb.co/c2LfKD3/Martha-Ortiz.jpg",
+        "experience": "5",
+        "like": "310",
+        "bioData": "Martha Ortiz is a famous Mexican chef and the owner of Dulce Patria at the Las Alcobas Hotel in Mexico City and Ella Canta at the InterContinental London Park Lane in London, England. She is best known for being a judge on the television cooking competition Top Chef Mexico.It was in 2003 that Ortiz opened her first restaurant in Mexico City to showcase regional Mexican cuisines. In 2017, Ortiz opened her second restaurant at the InterContinental London Park Lane. The authentic Mexican cuisine on the menu is prepared with ingredients imported directly from Mexico.",
+        "totalRecipe":"4",
+        "recipe":"Chiles en Nogada Estilo Dulce Patria,Pozole de Cordero,Tacos de Langosta con Salsa de Chile Pasilla,Pescado a la Talla"
+    }
+]
