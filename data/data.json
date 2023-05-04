@@ -2,6 +2,7 @@
     {   
         "id":"1",
         "name": "Enrique Olvera",
+        "banner_photo":"https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1600",
         "photo": "https://i.ibb.co/dJDtvVC/Enrique-Olvera.jpg",
         "experience": "20",
         "like": "17,257",
@@ -12,6 +13,7 @@
     {   
         "id":"2",
         "name": "Benito Molina",
+        "banner_photo":"https://images.pexels.com/photos/3038242/pexels-photo-3038242.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "photo": "https://i.ibb.co/WyWQ4SV/Benito-Molina.jpg",
         "experience": "17",
         "like": "4,930",
@@ -22,6 +24,7 @@
     {   
         "id":"3",
         "name": "Daniel Ovadía",
+        "banner_photo":"https://images.pexels.com/photos/5735836/pexels-photo-5735836.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "photo": "https://i.ibb.co/cQvLf3B/Daniel-Ova.jpg",
         "experience": "10",
         "like": "298",
@@ -32,6 +35,7 @@
     {   
         "id":"4",
         "name": "Luis Aranda",
+        "banner_photo":"https://images.pexels.com/photos/3504872/pexels-photo-3504872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "photo": "https://i.ibb.co/6r0HkmB/Luis-Aranda.jpg",
         "experience": "7",
         "like": "34",
@@ -42,6 +46,7 @@
     {   
         "id":"5",
         "name": "Daniela Sotto-Innes ",
+        "banner_photo":"https://images.pexels.com/photos/688803/pexels-photo-688803.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "photo": "https://i.ibb.co/BfjmQZc/Daniela-Sotto-Innes.jpg",
         "experience": "12",
         "like": "5,475",
@@ -52,6 +57,7 @@
     {   
         "id":"6",
         "name": "Pablo Salas ",
+        "banner_photo":"https://images.pexels.com/photos/958546/pexels-photo-958546.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "photo": "https://i.ibb.co/FshFCFN/Pablo-Salas.jpg",
         "experience": "9",
         "like": "1,875",
@@ -62,6 +68,7 @@
     {   
         "id":"7",
         "name": "Alfredo Villanueva ",
+        "banner_photo":"https://images.pexels.com/photos/145804/pexels-photo-145804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "photo": "https://i.ibb.co/L1vRBxt/Alfredo-Villanueva.jpg",
         "experience": "6",
         "like": "511",
@@ -72,6 +79,7 @@
     {   
         "id":"8",
         "name": "Martha Ortiz",
+        "banner_photo":"https://images.pexels.com/photos/3026013/pexels-photo-3026013.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "photo": "https://i.ibb.co/c2LfKD3/Martha-Ortiz.jpg",
         "experience": "5",
         "like": "310",

@@ -14,8 +14,9 @@ app.get('/chefData', (req, res) => {
     res.send(chefData)
 })
 app.get('/chefData/:id', (req, res) => {
-    const chefDetails =
-    res.send(chefDetails)
+    const id = req.params.id;
+    const selectedId = chefData.find(n => parseInt(n.id) == parseInt(id));
+    res.send(selectedId)
 })
 
 app.listen(port, () => {
