@@ -20,13 +20,14 @@
                 "id": "12",
                 "name": "Tlayudas",
                 "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
-                "method":""
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
             },
             {
                 "id": "13",
                 "name": "Chiles en Nogada",
-                "ingredients": "",
-                "method":""
+                "ingredients": "Poblano peppers, Ground beef or pork,Onion,Garlic,Tomatoes,Apples,Pears,Raisins,Almonds,Cinnamon, Salt and pepper",
+                
+                "method":"Roast the poblano peppers over an open flame or under a broiler until the skin is blistered and blackened. Place them in a plastic bag or covered bowl for a few minutes to allow them to steam, then peel off the skin and carefully remove the seeds, leaving the stem intact.In a large skillet, cook the ground beef or pork over medium heat until browned. Add the chopped onion and garlic and cook until softened.Add the chopped tomatoes, apples, pears, raisins, and almonds, and continue cooking until the fruit is tender and the flavors have blended.Season with cinnamon, salt, and pepper to taste. Stuff the poblano peppers with the meat and fruit mixture and place them in a baking dish."
             }
         ]
     },
@@ -39,7 +40,28 @@
         "like": "4,930",
         "bioData": "Benito Molina is widely recognized as one of Mexico’s most famous chefs. He was born in Mexico City in 1968. While working as an assistant chef at the renowned Maxim’s de Paris restaurant, he developed a love for fine cuisine.Since then, he has risen through the ranks and collaborated with some of the world’s most revered food experts. Molina has been widely recognized as an early innovator of Mexican and Mediterranean fusion cuisine thanks to his training at the New England Culinary Institute in Vermont, USA.Later, he found work as the cuisine chef at the establishment of the renowned Mexican oenologist Hugo D’Acosta in Ensenada (Baja California), where he met the talented Chef Solange Munis, who would become his future wife. The couple opened their own restaurant over a decade ago.",
         "totalRecipe":"3",
-        "recipe":"Tostadas de Pulpo con Aguachile, Chiles Rellenos de Queso de Bola, Pescado a la Talla"
+        "recipe":[
+            {
+                "id": "21",
+                "name": "Tostadas de Pulpo con Aguachile",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "22",
+                "name": "Chiles Rellenos de Queso de Bola",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "23",
+                "name": "Pescado a la Talla",
+                "ingredients": "Poblano peppers, Ground beef or pork,Onion,Garlic,Tomatoes,Apples,Pears,Raisins,Almonds,Cinnamon, Salt and pepper",
+                
+                "method":"Roast the poblano peppers over an open flame or under a broiler until the skin is blistered and blackened. Place them in a plastic bag or covered bowl for a few minutes to allow them to steam, then peel off the skin and carefully remove the seeds, leaving the stem intact.In a large skillet, cook the ground beef or pork over medium heat until browned. Add the chopped onion and garlic and cook until softened.Add the chopped tomatoes, apples, pears, raisins, and almonds, and continue cooking until the fruit is tender and the flavors have blended.Season with cinnamon, salt, and pepper to taste. Stuff the poblano peppers with the meat and fruit mixture and place them in a baking dish."
+            }
+        ]
     },
     {   
         "id":"3",
@@ -50,7 +72,28 @@
         "like": "298",
         "bioData": "Daniel Ovadía, a native of Mexico City, is widely regarded as one of the most promising young chefs in Mexico. At this point in his career, Ovadía has become more than just a famous restaurateur; he is also a prominent figure in the world of culinary scholarship.Ovadía first gained earned a reputation at the young age of 21 when he opened Paxia, a popular restaurant in the area known for its updated takes on classic Mexican dishes, Mora Blanca (inspired by the dinners he had as the son of European settlers), the neighborhood lunch joint Peltre, a cooking group, and the food store Serendipia are now part of his small domain. With all these accomplishments, Ovadía has easily become one of the most popular Mexican chefs today.",
         "totalRecipe":"3",
-        "recipe":"Ceviche Verde, Churros con Chocolate, Esquites"
+        "recipe":[
+            {
+                "id": "31",
+                "name": "Ceviche Verde",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "32",
+                "name": "Churros con Chocolate",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "33",
+                "name": "Esquites",
+                "ingredients": "Poblano peppers, Ground beef or pork,Onion,Garlic,Tomatoes,Apples,Pears,Raisins,Almonds,Cinnamon, Salt and pepper",
+                
+                "method":"Roast the poblano peppers over an open flame or under a broiler until the skin is blistered and blackened. Place them in a plastic bag or covered bowl for a few minutes to allow them to steam, then peel off the skin and carefully remove the seeds, leaving the stem intact.In a large skillet, cook the ground beef or pork over medium heat until browned. Add the chopped onion and garlic and cook until softened.Add the chopped tomatoes, apples, pears, raisins, and almonds, and continue cooking until the fruit is tender and the flavors have blended.Season with cinnamon, salt, and pepper to taste. Stuff the poblano peppers with the meat and fruit mixture and place them in a baking dish."
+            }
+        ]
     },
     {   
         "id":"4",
@@ -61,7 +104,34 @@
         "like": "34",
         "bioData": "Luis Aranda has multiple diplomas in culinary fields like international cooking, Latin American cooking, pastry making, fusion cooking, and various other cooking techniques. He is also a master’s degree holder.After he finished school, Aranda took a trip that lasted more than two years, taking him from Cancun to Ensenada and finally ending in Toronto, Canada. Aranda made the most of his experiences at the restaurants he discovered and the food they served.He amassed unimaginable knowledge and expertise in the kitchen and used it to create dishes that were unmatched. That’s why Luis Aranda’s name appears among Mexico’s popular chefs today.",
         "totalRecipe":"4",
-        "recipe":"Ceviche Verde, Tacos de Camarones al Pastor,Churros con Chocolate, Esquites"
+        "recipe":[
+            {
+                "id": "41",
+                "name": "Ceviche Verde",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "42",
+                "name": "Tacos de Camarones al Pastor",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "43",
+                "name": "Churros con Chocolate",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "44",
+                "name": "Esquites",
+                "ingredients": "Poblano peppers, Ground beef or pork,Onion,Garlic,Tomatoes,Apples,Pears,Raisins,Almonds,Cinnamon, Salt and pepper",
+                
+                "method":"Roast the poblano peppers over an open flame or under a broiler until the skin is blistered and blackened. Place them in a plastic bag or covered bowl for a few minutes to allow them to steam, then peel off the skin and carefully remove the seeds, leaving the stem intact.In a large skillet, cook the ground beef or pork over medium heat until browned. Add the chopped onion and garlic and cook until softened.Add the chopped tomatoes, apples, pears, raisins, and almonds, and continue cooking until the fruit is tender and the flavors have blended.Season with cinnamon, salt, and pepper to taste. Stuff the poblano peppers with the meat and fruit mixture and place them in a baking dish."
+            }
+        ]
     },
     {   
         "id":"5",
@@ -72,7 +142,40 @@
         "like": "5,475",
         "bioData": "Daniela Sotto-Innes began learning how to cook as a child and continued her education at the renowned Pujol cooking school in her teenage years.In 2014, her instructor Enrique Olvera opened a restaurant and hired Soto-Innes as head chef. At 26, she was already employed in one of New York City’s most prestigious restaurants.She is an expert when it comes to upscale Mexican cuisine. Although she does not disclose all her trade secrets, Soto-Innes takes great pride in paying homage to Mexican cuisine by preparing authentic dishes.",
         "totalRecipe":"5",
-        "recipe":"Ceviche Verde, Tacos de Camarones al Pastor,Churros con Chocolate, Esquites, Enchiladas de Mole Negro "
+        "recipe":[
+            {
+                "id": "51",
+                "name": "Ceviche Verde",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "52",
+                "name": "Tacos de Camarones al Pastor",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "53",
+                "name": "Churros con Chocolate",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "54",
+                "name": "Enchiladas de Mole Negro",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "55",
+                "name": "Esquites",
+                "ingredients": "Poblano peppers, Ground beef or pork,Onion,Garlic,Tomatoes,Apples,Pears,Raisins,Almonds,Cinnamon, Salt and pepper",
+                
+                "method":"Roast the poblano peppers over an open flame or under a broiler until the skin is blistered and blackened. Place them in a plastic bag or covered bowl for a few minutes to allow them to steam, then peel off the skin and carefully remove the seeds, leaving the stem intact.In a large skillet, cook the ground beef or pork over medium heat until browned. Add the chopped onion and garlic and cook until softened.Add the chopped tomatoes, apples, pears, raisins, and almonds, and continue cooking until the fruit is tender and the flavors have blended.Season with cinnamon, salt, and pepper to taste. Stuff the poblano peppers with the meat and fruit mixture and place them in a baking dish."
+            }
+        ]
     },
     {   
         "id":"6",
@@ -83,7 +186,40 @@
         "like": "1,875",
         "bioData": "Pablo Salas is celebrated for his innovative Mexican cuisine, including his penchant for preparing pork and his mastery of the art of serving pig trotters in a respectful and appetizing manner. He is an advanced Mexican food specialist who received training at Ambrosia in Mexico.The restaurant known as Amaranta can be found in the State of Mexico. It serves traditional Mexican dishes such as fish, chorizo, and mushrooms. Salas currently holds a spot on Mexico’s top famous chefs’ list.",
         "totalRecipe":"5",
-        "recipe":"Sopa Azteca, Cochinita Pibil Tacos ,Chiles Rellenos de Queso de Bola,Enchiladas Suizas,Tamales de Elote con Flor de Calabaza"
+        "recipe":[
+            {
+                "id": "61",
+                "name": "Sopa Azteca",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "62",
+                "name": "Cochinita Pibil Tacos",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "63",
+                "name": "Chiles Rellenos de Queso de Bola",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "64",
+                "name": "Enchiladas Suizas",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "65",
+                "name": "Tamales de Elote con Flor de Calabaza",
+                "ingredients": "Poblano peppers, Ground beef or pork,Onion,Garlic,Tomatoes,Apples,Pears,Raisins,Almonds,Cinnamon, Salt and pepper",
+                
+                "method":"Roast the poblano peppers over an open flame or under a broiler until the skin is blistered and blackened. Place them in a plastic bag or covered bowl for a few minutes to allow them to steam, then peel off the skin and carefully remove the seeds, leaving the stem intact.In a large skillet, cook the ground beef or pork over medium heat until browned. Add the chopped onion and garlic and cook until softened.Add the chopped tomatoes, apples, pears, raisins, and almonds, and continue cooking until the fruit is tender and the flavors have blended.Season with cinnamon, salt, and pepper to taste. Stuff the poblano peppers with the meat and fruit mixture and place them in a baking dish."
+            }
+        ]
     },
     {   
         "id":"7",
@@ -94,7 +230,21 @@
         "like": "511",
         "bioData": "Alfredo Villanueva is a culinary expert who was born in Mexico City and educated himself in the field. Romero Y Azahar, his restaurant in Monterrey, was created in the same way that other Mexican culinary masters have done so that it can take advantage of local ingredients.As a result of this, he holds a prominent place on the list of the most popular chefs in Mexico. In the realm of Mexican cuisine, he is well-known as a chef with high standards, a maker of flavors that stick in the memory, and a pro at working with rice and fire.",
         "totalRecipe":"2",
-        "recipe":"Sopa Azteca, Cochinita Pibil Tacos"
+        "recipe":[
+            {
+                "id": "71",
+                "name": "Sopa Azteca",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "72",
+                "name": "Cochinita Pibil Tacos",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            }
+        ]
     },
     {   
         "id":"8",
@@ -105,6 +255,33 @@
         "like": "310",
         "bioData": "Martha Ortiz is a famous Mexican chef and the owner of Dulce Patria at the Las Alcobas Hotel in Mexico City and Ella Canta at the InterContinental London Park Lane in London, England. She is best known for being a judge on the television cooking competition Top Chef Mexico.It was in 2003 that Ortiz opened her first restaurant in Mexico City to showcase regional Mexican cuisines. In 2017, Ortiz opened her second restaurant at the InterContinental London Park Lane. The authentic Mexican cuisine on the menu is prepared with ingredients imported directly from Mexico.",
         "totalRecipe":"4",
-        "recipe":"Chiles en Nogada Estilo Dulce Patria,Pozole de Cordero,Tacos de Langosta con Salsa de Chile Pasilla,Pescado a la Talla"
+        "recipe":[
+            {
+                "id": "81",
+                "name": "Chiles en Nogada Estilo Dulce Patria",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "82",
+                "name": "Pozole de Cordero",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "83",
+                "name": "Tacos de Langosta con Salsa de Chile Pasilla",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":"Heat a comal (a flat griddle) or a large frying pan over medium-high heat.Place a large corn tortilla on the comal or frying pan and let it cook for about 1-2 minutes on each side, or until it starts to puff up and become slightly crispy.Spread a layer of refried beans over the tortilla, leaving a border around the edge.Add slices of cheese on top of the beans. Add sliced meat on top of the cheese, if using. Add sliced avocado, tomato, and lettuce or cabbage on top of the meat.Drizzle with salsa on top.Fold the tortilla in half to enclose the toppings, and press down gently with a spatula to help the cheese melt. Cook for an additional 1-2 minutes on each side, or until the cheese is melted and the tortilla is crispy and golden brown.Remove from the heat and cut into wedges. Serve hot with additional salsa or toppings on the side, if desired."
+            },
+            {
+                "id": "84",
+                "name": "Pescado a la Talla",
+                "ingredients": "Poblano peppers, Ground beef or pork,Onion,Garlic,Tomatoes,Apples,Pears,Raisins,Almonds,Cinnamon, Salt and pepper",
+                
+                "method":"Roast the poblano peppers over an open flame or under a broiler until the skin is blistered and blackened. Place them in a plastic bag or covered bowl for a few minutes to allow them to steam, then peel off the skin and carefully remove the seeds, leaving the stem intact.In a large skillet, cook the ground beef or pork over medium heat until browned. Add the chopped onion and garlic and cook until softened.Add the chopped tomatoes, apples, pears, raisins, and almonds, and continue cooking until the fruit is tender and the flavors have blended.Season with cinnamon, salt, and pepper to taste. Stuff the poblano peppers with the meat and fruit mixture and place them in a baking dish."
+            }
+        ]
     }
 ]
