@@ -8,7 +8,27 @@
         "like": "17,257",
         "bioData": "Currently, Enrique Olvera is the most popular Mexican chef in the world.He was raised in Mexico City but ultimately decided to attend culinary school in New York, so he moved there. Olvera is the chef and proprietor of the renowned Pujol restaurant in a quiet suburb of Mexico City, known for its innovative and creative Mexican haute cuisine.Enrique Olvera, without a doubt, has been a forerunner in the modern Mexican cuisine movement. He is ranked first among Mexico’s top chefs because of his careful attention to each dish and the creative ways he adapts international cuisine to Mexico’s regional specialties and cultural norms.At the 2021 edition of “The World’s 50 Best Restaurants” list, Olvera’s restaurant is placed at number nine, and he was featured on the 12th season of MasterChef UK.",
         "totalRecipe":"3",
-        "recipe":"Mole de Olla, Tlayudas, Chiles en Nogada"
+        "recipe":[
+            {
+                "id": "11",
+                "name": "Mole de Olla",
+                "ingredients": "Beef shank or chuck roast,Beef bones (optional),Water,Onion,Garlic,Bay leaves,Mexican oregano,Cilantro,Green beans,Chayote squash,Zucchini,Corn on the cob,Potatoes,Carrots,Cabbage,Tomatoes,Dried guajillo chilies,Dried ancho chilies,Epazote (optional),Salt and pepper",
+                
+                "method":"In a large pot, add the beef shank or chuck roast, beef bones (if using), onion, garlic, bay leaves, Mexican oregano, and cilantro. Cover with water and bring to a boil. Reduce the heat to medium-low and let simmer for about 2-3 hours, or until the meat is tender and falling off the bones.While the meat is cooking, prepare the vegetables. Peel and chop the potatoes and carrots into bite-sized pieces. Cut the chayote squash and zucchini into wedges. Cut the corn into 3-4 pieces.In a separate pot, add the dried guajillo and ancho chilies and cover with water. Bring to a boil and let simmer for about 10-15 minutes, or until the chilies are soft.Remove the chilies from the water and remove the stems and seeds. Place the chilies in a blender or food processor along with some of the cooking liquid from the meat. Blend until smooth.Add the blended chili sauce to the pot with the meat, along with the chopped vegetables, green beans, and cabbage. Let simmer for another 30-45 minutes, or until the vegetables are tender.Season with salt and pepper to taste, and add some chopped cilantro and epazote (if using) for added flavor.Serve hot with tortillas or rice on the side."
+            },
+            {
+                "id": "12",
+                "name": "Tlayudas",
+                "ingredients": "Large corn tortillas,Refried beans (black or pinto),Oaxaca cheese or queso fresco,Avocado,Tomato,Lettuce or cabbage,Sliced meat (such as chorizo, tasajo, or cecina),Salsa (such as salsa verde or salsa roja)",
+                "method":""
+            },
+            {
+                "id": "13",
+                "name": "Chiles en Nogada",
+                "ingredients": "",
+                "method":""
+            }
+        ]
     },
     {   
         "id":"2",
